@@ -1,5 +1,3 @@
-# Howdy 👋
-
 ![Sherk](/img/shrek.jpg)
 
 <!--
