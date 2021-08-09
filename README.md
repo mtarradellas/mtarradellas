@@ -1,1 +1,1 @@
-![Sherk](/img/shrekSmaller.jpg)
+![Sherk](/img/redpanda.jpg)
